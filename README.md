@@ -1,0 +1,2 @@
+# FreeCRM2
+Selenium
